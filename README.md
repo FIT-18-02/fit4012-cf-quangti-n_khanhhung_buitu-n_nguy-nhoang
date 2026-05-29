@@ -28,8 +28,7 @@ Bước 1: Đảm bảo có 3 file trong cùng thư mục:
 - users.json (dữ liệu tài khoản)
 
 Bước 2: Chạy web server (không thể mở trực tiếp file HTML do CORS):
-- Dùng Live Server (VS Code):*
-- Chuột phải vào file HTML → Open with Live Server
+- Dùng Live Server (VS Code): Chuột phải vào file HTML → Open with Live Server
 
 ### 4. TÀI KHOẢN GIẢ LẬP
 
